@@ -1,33 +1,59 @@
 # Data Structures & Algorithms in C++
 
-A collection of my Data Structures and Algorithms practice and problem-solving solutions using C++.
+A structured collection of my **Data Structures and Algorithms** practice, implementations, and problem-solving solutions using C++.
 
-## 📚 Topics
+This repository documents my learning journey and is continuously updated as I learn new concepts and solve problems.
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Recursion
-- Searching
-- Sorting
-- Trees
-- Graphs
-- Dynamic Programming
+---
 
 ## 🎯 Goals
 
 - Build strong problem-solving skills
-- Understand core data structures and algorithms
-- Practice competitive programming
-- Solve problems from platforms such as LeetCode
-- Prepare for software development internships and placements
+- Understand fundamental data structures and algorithms
+- Practice writing clean and efficient C++ code
+- Solve problems from coding platforms
+- Prepare for software engineering internships and placements
 
-## 🛠️ Language
+---
 
-- C++
+## 📚 Topics
 
-## 📈 Progress
+### Data Structures
 
-This repository is continuously updated as I learn and solve new problems.
+- [x] Stack
+- [x] Queue
+- [ ] Arrays
+- [ ] Linked List
+- [ ] Circular Queue
+- [ ] Trees
+- [ ] Binary Search Tree
+- [ ] Heap
+- [ ] Hashing
+- [ ] Graphs
+
+### Algorithms
+
+- [ ] Searching
+- [ ] Sorting
+- [ ] Recursion
+- [ ] Greedy Algorithms
+- [ ] Divide and Conquer
+- [ ] Dynamic Programming
+- [ ] Graph Algorithms
+
+---
+
+## 🗂️ Repository Structure
+
+```text
+dsa-cpp/
+│
+├── Stack/
+│   ├── README.md
+│   └── stack_array.cpp
+│
+├── Queue/
+│   ├── README.md
+│   └── queue_array.cpp
+│
+└── README.md
